@@ -1,6 +1,9 @@
 #include "stdafx.h"
-
+#ifdef __APPLE__
+#include <GLUT/glut.h>
+#else
 #include <GL/glut.h>
+#endif
 
 
 void drawShape()
@@ -58,7 +61,7 @@ int main(int argc, char* argv[]) {
 	glutInit(&argc, argv);
 	glutInitDisplayMode(GLUT_SINGLE | GLUT_RGB);
 	glutInitWindowSize(800, 600);
-	glutCreateWindow("Mój pierwszy program w GLUT");
+	glutCreateWindow("MÃ³j pierwszy program w GLUT");
 	glutDisplayFunc(RenderScene);
 	glutReshapeFunc(ChangeSize);
 	glutTimerFunc(100, TimerFunction, 1);
