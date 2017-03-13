@@ -4,7 +4,7 @@
 #else
 #include <GL/glut.h>
 #endif
-
+//Patryk Kiszczak 1b
 
 void drawShape()
 {
@@ -38,7 +38,7 @@ void TimerFunction(int value) {
 }
 
 void SetupRC(void) {   
-	glClearColor(102.0f, 102.0f, 0.0f, 1.0f);
+	glClearColor(0.647059f, 0.164706f, 0.0f, 1.0f);
 }
 
 void ChangeSize(int w, int h) {
