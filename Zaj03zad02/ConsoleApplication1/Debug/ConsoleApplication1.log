@@ -1,0 +1,9 @@
+﻿  ConsoleApplication1.cpp
+c:\users\test\documents\visual studio 2015\projects\zaj03zad01\consoleapplication1\consoleapplication1.cpp(458): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\test\documents\visual studio 2015\projects\zaj03zad01\consoleapplication1\consoleapplication1.cpp(463): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\test\documents\visual studio 2015\projects\zaj03zad01\consoleapplication1\consoleapplication1.cpp(515): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\test\documents\visual studio 2015\projects\zaj03zad01\consoleapplication1\consoleapplication1.cpp(517): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\test\documents\visual studio 2015\projects\zaj03zad01\consoleapplication1\consoleapplication1.cpp(519): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\test\documents\visual studio 2015\projects\zaj03zad01\consoleapplication1\consoleapplication1.cpp(521): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  ConsoleApplication1.vcxproj -> C:\Users\test\Documents\Visual Studio 2015\Projects\Zaj03zad01\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\test\Documents\Visual Studio 2015\Projects\Zaj03zad01\Debug\ConsoleApplication1.pdb (Full PDB)
