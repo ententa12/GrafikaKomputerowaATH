@@ -1,0 +1,8 @@
+﻿  Zajecia6.cpp
+d:\zajecia6\zajecia6\zajecia6\zajecia6.cpp(101): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\zajecia6\zajecia6\zajecia6\zajecia6.cpp(693): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+d:\zajecia6\zajecia6\zajecia6\zajecia6.cpp(702): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+d:\zajecia6\zajecia6\zajecia6\zajecia6.cpp(812): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\zajecia6\zajecia6\zajecia6\zajecia6.cpp(816): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+  Zajecia6.vcxproj -> D:\Zajecia6\Zajecia6\Debug\Zajecia6.exe
+  Zajecia6.vcxproj -> D:\Zajecia6\Zajecia6\Debug\Zajecia6.pdb (Full PDB)
